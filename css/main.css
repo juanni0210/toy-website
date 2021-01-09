@@ -1,0 +1,23 @@
+/* .wrapper {
+    max-width: 150rem;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.top-banner {
+    background-color: #FCCC05;
+}
+
+
+
+
+.mynav .logo {
+    width: 10%;
+    height: auto;
+    margin-right: 180px;
+}
+
+.mynav ul li a {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
